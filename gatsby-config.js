@@ -1,7 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Jason`s Store',
+    title: 'Gatsby Default Starter',
   },
-  pathPrefix: `/my-store`,
-  plugins: ['gatsby-plugin-react-helmet', 'gatsby-plugin-stripe-checkout'],
+  plugins: ['gatsby-plugin-react-helmet'],
 }
